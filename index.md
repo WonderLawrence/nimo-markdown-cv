@@ -4,11 +4,10 @@ title: Lang "Nimo" Wang
 email:
   url: wonderlawrence@163.com
   text: wonderlawrence@163.com
-phone:
-  text: 13701099690
+phone: 137-0109-9690
 ---
 
-# Wode **Ni**
+# Lang **Wang**
 
 <!--
 include contact information from the front matter
@@ -22,32 +21,23 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Chinese Academy of Science (CAS), Institute of Computing Technology (ICT)** `Sep 2015 - July 2018`
 
 ```
-Pittsburgh, PA
+Haidian District, Beijing, CN
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.S. in Computer Science
+- High-Performance Network Architecture, DPDK, Netmap
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **Huazhong University of Science and Technology (HUST), Department of Electronic Science and Technology (EST)** `Sep 2011 - July 2015`
 
 ```
-Carlisle, PA
+Wuhan, Hubei, CN
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.S. in Electronic Science and Technology
+
 
 ## Publications
 
