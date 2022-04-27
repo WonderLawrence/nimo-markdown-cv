@@ -1,12 +1,11 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Lang "Nimo" Wang
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: wonderlawrence@163.com
+  text: wonderlawrence@163.com
+phone:
+  text: 13701099690
 ---
 
 # Wode **Ni**
