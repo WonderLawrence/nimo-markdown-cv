@@ -43,12 +43,10 @@ Wuhan, Hubei, CN
 
 ### **Tencent Games, Timi J3 Studio** `July 2020 -`
 
-_CFR Project_<br>
-负责 ORCA 避障算法的实现，解决 UE4 引擎自带 RVO 算法所导致的抖动问题，避免 AI 移动出 Navmesh 的风险，优化拐角地形的寻路表现，使得 AI 避障行为更加拟人化。<br>
-负责 AI 的射击以及使用技能行为的开发，设计并实现投掷类技能使用框架，使得 AI 墙角投掷类技能行为更加拟人化。<br>
+_FPS Mobile Game with a Famous IP_<br>
+In order to anthropomorphize the AI obstacle avoidance behavior, Independently implement the ORCA algorithm plugin for obstacle avoidance instead of using the engine slolution of simple RVO algorithm. As a result, we avoid the risk of AI moving out of navmesh boundary, and also solve the first-person perspective shaking problem originated in UE4 RVO algorithm. On the other hand, We also optimize the multi AI avoidance behavior in corner terrain with this plugin. <br>
 
-_CFM Project_<br>
-负责生化模式 AI 的开发和维护工作。<br>
+Responsible for the development of AI shooting and skill using behavior, design and implement the throwing skill using framework, anthropomorphize the AI corner terrain throwing skill.<br>
 
 ### **Netease Games, Zen Studio** `July 2018 - July 2020`
 
