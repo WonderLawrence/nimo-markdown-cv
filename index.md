@@ -78,7 +78,7 @@ Second Price of National Student Electronic Design Competition    (Sep2013)<br>
 ## Skill & Certificates
 
 Great knowledge of linux development environment, Familiar with development tools: Git, SVN, GDB, Makefile, etc<br>
-Skills Stack: Great knowledge of GamepPlay, GAS and AI framworks of UE4. Experienced in etcd, redis, mongodb, grpc and so on. Ever viewed the source code of CPython. Great understanding of microservice framwork. <br>
+Skills Stack: Great knowledge of GamepPlay, GAS and AI framworks of UE4. Experienced in etcd, redis, mongodb, grpc and so on. Ever viewed the source code of CPython. Great understanding of microservice framework. <br>
 Programming Language: C/C++, Python, Shell.<br>
 College English Test Band 6 Certificate(CET6).<br>
 Fourth-level Certificate for National Computer.<br>
