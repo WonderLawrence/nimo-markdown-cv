@@ -69,7 +69,7 @@ Optimize the worker server workflow process and reduce the I/O pressure on the d
 ## Awards & Papers
 
 Merit Student of ICT    (May 2017)<br>
-**《Lithium-decorated oxidized graphyne for hydrogen storage by first principles study》** published in juunal **《Journal of Applied Physics》**     (Sep 2014)<br>
+**《Lithium-decorated oxidized graphyne for hydrogen storage by first principles study》** published in journal **《Journal of Applied Physics》**     (Sep 2014)<br>
 Encouragement Scholarship of HUST    (Mar 2014)<br>
 Outstanding Individual in Scientific Innovation of HUST    (Dec 2013)<br>
 Second Price of National Student Electronic Design Competition    (Sep2013)<br>
