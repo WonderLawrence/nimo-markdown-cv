@@ -44,11 +44,12 @@ Wuhan, Hubei, CN
 ### **Tencent Games, Timi J3 Studio** `July 2020 -`
 
 _FPS Mobile Game Based On Famous IP_<br>
-In order to anthropomorphize the AI obstacle avoidance behavior, Independently implement the ORCA algorithm plugin for obstacle avoidance instead of using the engine slolution of simple RVO algorithm. As a result, we avoid the risk of AI moving out of navmesh boundary, and also solve the first-person perspective shaking problem which is originated in UE4 RVO algorithm. On the other hand, We also optimize the multi AI avoidance behavior in corner terrain with this plugin.<br>
+In order to anthropomorphize the AI obstacle avoidance behavior, independently implement the ORCA algorithm plugin for obstacle avoidance instead of using the engine slolution of simple RVO algorithm. As a result, we avoid the risk of AI moving out of navmesh boundary, and also solve the first-person perspective shaking problem which is originated in UE4 RVO algorithm. On the other hand, we also optimize the multi AI avoidance behavior in corner terrain with this plugin.<br>
 
 Responsible for the development of AI shooting and skill using behavior, design and implement the throwing skill framework for AI, anthropomorphize the throwing skill behavior of AI in corner terrain.<br>
 
-Implement a python development evevironment based on C++ message dispatcher framework. RPC framework based on python3.6 was also implemented on this project. this will contribute a lot to the team development efficiency.<br>
+Implement a python development evevironment based on C++ message dispatcher framework. RPC framework based on python3.6 was also implemented on this project. This will contribute a lot to the team development efficiency.<br>
+
 ### **Netease Games, Zen Studio** `July 2018 - July 2020`
 
 _harry potter magic awakened_<br>
@@ -57,14 +58,13 @@ Participate in developing the login system, chat system, and anti-addiction syst
 Several public lessons about CPython runtime framework with a lot of praise.<br>
 
 _3v3 MOBA Intern Game Project_<br>
-
-在新人mini项目中担任主程，帮助团队完成了服务器框架的设计和实现。为游戏中的怪物类 AI 设计了一套行为树框架以及 A* 算法，完成了服务器与客户端rpc框架的设计以及数据包的加解密算法。帮助团队在二十多支新人队伍中取得了第四名的优异成绩。<br>
+Served as the main engineer in this intern game project, helping the team to complete the server framework. Designed a framework for running behavior tree and implement A* algorithm for monster AI in the game. Completed the design of server and client rpc framework and the encryption and decryption algorithm of message packets. As a result, we achieved the 4th rank position among more than twenty teams.<br>
 
 ### **Freewheel** `Jun 2017 - Aug 2017`
 
 _Intern Project_<br>
 Optimize the worker server workflow process and reduce the I/O pressure on the database server. Design a multithreading task management & fixed start address memory allocator. Making the user's request reponse speed increased by 78%.<br>
----
+
 
 ## Awards & Papers
 
