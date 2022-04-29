@@ -44,10 +44,11 @@ Wuhan, Hubei, CN
 ### **Tencent Games, Timi J3 Studio** `July 2020 -`
 
 _FPS Mobile Game Based On Famous IP_<br>
-In order to anthropomorphize the AI obstacle avoidance behavior, Independently implement the ORCA algorithm plugin for obstacle avoidance instead of using the engine slolution of simple RVO algorithm. As a result, we avoid the risk of AI moving out of navmesh boundary, and also solve the first-person perspective shaking problem originated in UE4 RVO algorithm. On the other hand, We also optimize the multi AI avoidance behavior in corner terrain with this plugin. <br>
+In order to anthropomorphize the AI obstacle avoidance behavior, Independently implement the ORCA algorithm plugin for obstacle avoidance instead of using the engine slolution of simple RVO algorithm. As a result, we avoid the risk of AI moving out of navmesh boundary, and also solve the first-person perspective shaking problem which is originated in UE4 RVO algorithm. On the other hand, We also optimize the multi AI avoidance behavior in corner terrain with this plugin.<br>
 
-Responsible for the development of AI shooting and skill using behavior, design and implement the throwing skill using framework, anthropomorphize the AI corner terrain throwing skill.<br>
+Responsible for the development of AI shooting and skill using behavior, design and implement the throwing skill framework for AI, anthropomorphize the throwing skill behavior of AI in corner terrain.<br>
 
+Implement a python development evevironment based on C++ message dispatcher framework. RPC framework based on python3.6 was also implemented on this project. this will contribute a lot to the team development efficiency.<br>
 ### **Netease Games, Zen Studio** `July 2018 - July 2020`
 
 _harry potter magic awakened_<br>
@@ -77,8 +78,8 @@ Second Price of National Student Electronic Design Competition    (Sep2013)<br>
 
 ## Skill & Certificates
 
-Great knowledge of linux development environment, Familiar with development tools: Git, SVN, GDB, Makefile, etc<br>
-Skills Stack: Great knowledge of GamepPlay, GAS and AI framworks of UE4. Experienced in etcd, redis, mongodb, grpc and so on. Ever viewed the source code of CPython. Great understanding of microservice framework. <br>
+Great knowledge of linux development environment, Familiar with development tools: Git, SVN, GDB, Makefile, etc.<br>
+Skills Stack: Great UE4 framework knowledge of GamepPlay, GAS and AI. Experienced in etcd, redis, mongodb, grpc and so on. Ever viewed the source code of CPython. Great understanding of microservice framework.<br>
 Programming Language: C/C++, Python, Shell.<br>
 College English Test Band 6 Certificate(CET6).<br>
 Fourth-level Certificate for National Computer.<br>
