@@ -44,23 +44,15 @@ Wuhan, Hubei, CN
 ### **Tencent Games, Timi J3 Studio** `July 2020 - Present`
 
 _FPS Mobile Game Based On Famous IP_<br>
-In order to anthropomorphize the AI obstacle avoidance behavior, independently implement the ORCA algorithm plugin for obstacle avoidance instead of using the engine slolution of simple RVO algorithm. As a result, we avoid the risk of AI moving out of navmesh boundary, and also solve the first-person perspective shaking problem which is originated in UE4 RVO algorithm. On the other hand, we also optimize the multi AI avoidance behavior in corner terrain with this plugin.<br>
-
-
-Responsible for the development of AI shooting and skill using behavior, design and implement the throwing skill framework for AI, anthropomorphize the throwing skill behavior of AI in corner terrain.<br>
-
-
+In order to anthropomorphize the AI obstacle avoidance behavior, independently implement the ORCA algorithm plugin for obstacle avoidance instead of using the engine slolution of simple RVO algorithm. As a result, we avoid the risk of AI moving out of navmesh boundary, and also solve the first-person perspective shaking problem which is originated in UE4 RVO algorithm. On the other hand, we also optimize the multi AI avoidance behavior in corner terrain with this plugin.<br>  
+Responsible for the development of AI shooting and skill using behavior, design and implement the throwing skill framework for AI, anthropomorphize the throwing skill behavior of AI in corner terrain.<br>  
 Implement a python development evevironment based on C++ message dispatcher framework. RPC framework based on python3.6 was also implemented on this project. This will contribute a lot to the team development efficiency.<br>
 
 ### **Netease Games, Zen Studio** `July 2018 - July 2020`
 
 _harry potter magic awakened_<br>
-Independently built the gameplay framewrok of dance system, card system and house cup system.<br>
-
-
-Participate in developing the login system, chat system, and anti-addiction system.<br>
-
-
+Independently built the gameplay framewrok of dance system, card system and house cup system.<br>  
+Participate in developing the login system, chat system, and anti-addiction system.<br>  
 Several public lessons about CPython runtime framework with a lot of praise.<br>
 
 _3v3 MOBA Intern Game Project_<br>
