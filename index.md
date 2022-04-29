@@ -52,25 +52,24 @@ Implement a python development evevironment based on C++ message dispatcher fram
 ### **Netease Games, Zen Studio** `July 2018 - July 2020`
 
 _harry potter magic awakened_<br>
-帮助团队搭建舞会玩法框架，参与项目组诸多系统的开发和维护工作（登录系统、实名防沉迷系统、卡牌系统、学院杯系统、聊天系统等）。<br>
-期间多次帮助团队分享 python 虚拟机运行机制，获得一致好评。<br>
+Independently built the gameplay framewrok of dance system, card system and house cup system.<br>
+Participate in developing the login system, chat system, and anti-addiction system.<br>
+Several public lessons about CPython runtime framework with a lot of praise.<br>
 
-_冰雪大乱斗_<br>
+_3v3 MOBA Intern Game Project_<br>
+
 在新人mini项目中担任主程，帮助团队完成了服务器框架的设计和实现。为游戏中的怪物类 AI 设计了一套行为树框架以及 A* 算法，完成了服务器与客户端rpc框架的设计以及数据包的加解密算法。帮助团队在二十多支新人队伍中取得了第四名的优异成绩。<br>
 
 ### **Freewheel** `Jun 2017 - Aug 2017`
 
 _Intern Project_<br>
-参与设计和独立完成一款基于多线程的任务管理器和固定起始地址的内存分配器，帮助团队将用户请求的响应速度提高了78%，优化了worker服务器的工作流程、减轻了数据库服务器分发的压力。<br>
-
-
-
+Optimize the worker server workflow process and reduce the I/O pressure on the database server. Design a multithreading task management & fixed start address memory allocator. Making the user's request reponse speed increased by 78%.<br>
 ---
 
 ## Awards & Papers
 
 Merit Student of ICT    (May 2017)<br>
-**《Lithium-decorated oxidized graphyne for hydrogen storage by first principles study》**published in juunal **《Journal of Applied Physics》**     (Sep 2014)<br>
+**《Lithium-decorated oxidized graphyne for hydrogen storage by first principles study》** published in juunal **《Journal of Applied Physics》**     (Sep 2014)<br>
 Encouragement Scholarship of HUST    (Mar 2014)<br>
 Outstanding Individual in Scientific Innovation of HUST    (Dec 2013)<br>
 Second Price of National Student Electronic Design Competition    (Sep2013)<br>
