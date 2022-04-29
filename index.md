@@ -45,7 +45,7 @@ Wuhan, Hubei, CN
 
 _FPS Mobile Game Based On Famous IP_<br>
 In order to anthropomorphize the AI obstacle avoidance behavior, independently implemented the ORCA algorithm plugin for obstacle avoidance instead of using the engine slolution of simple RVO algorithm. As a result, we avoided the risk of AI moving out of navmesh boundary, and also solved the first-person perspective shaking problem which is originated in UE4 RVO algorithm. On the other hand, we also optimized the multi AI avoidance behavior in corner terrain with this plugin.<br>  
-Responsible for the development of AI shooting and ability behavior on various different situations, designed and implemented the spell casting framework for AI, anthropomorphized the spell casting behavior of AI in corner terrain.<br>  
+Responsible for the development of AI shooting and ability behaviors on various different situations, designed and implemented the spell casting framework for AI, anthropomorphized the spell casting behavior of AI in corner terrain.<br>  
 Implemented a python development evevironment based on C++ message dispatcher framework. RPC framework based on python3.6 was also implemented on this project. This will contribute a lot to the team development efficiency.<br>
 
 ### **Netease Games, Zen Studio** `July 2018 - July 2020`
@@ -56,7 +56,7 @@ Participated in developing the login system, chat system, and anti-addiction sys
 Several public lessons about CPython runtime framework with a lot of praise.<br>
 
 _3v3 MOBA Intern Game Project_<br>
-Served as the main engineer in this intern game project, helped the team to complete the server framework. Designed a framework for running behavior tree and implemented A* algorithm for monster AI in the game. Completed the design of server and client rpc framework and the encryption and decryption algorithm of message packets. As a result, we achieved the 4th rank position among more than twenty teams.<br>
+Served as the main engineer in this intern game project, helped the team to complete the server framework. Designed a framework for running behavior tree and implemented A* algorithm for monster AI in the game. Completed the design of server and client rpc framework and the encryption algorithm of message packets. As a result, we achieved the 4th rank position among more than twenty teams.<br>
 
 ### **Freewheel** `Jun 2017 - Aug 2017`
 
