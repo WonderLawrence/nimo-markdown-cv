@@ -53,7 +53,7 @@ Implemented a python development evevironment based on C++ message dispatcher fr
 _Harry Potter Magic Awakened_<br>
 Independently built the gameplay framewrok of dance system, card system and house cup system.<br>  
 Participated in developing the login system, chat system, and anti-addiction system.<br>  
-Several public lessons about CPython runtime framework with a lot of praise.<br>
+Several public lessons about CPython runtime framework with a lot of praise.<br>  
 
 _3v3 MOBA Intern Game Project_<br>
 Served as the main engineer in this intern game project, helped the team to complete the server framework. Designed a framework for running behavior tree and implemented A* algorithm for monster AI in the game. Completed the design of server and client rpc framework and the encryption algorithm of message packets. As a result, we achieved the 4th rank position among more than twenty teams.<br>
