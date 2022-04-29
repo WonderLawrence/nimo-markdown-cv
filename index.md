@@ -68,20 +68,20 @@ _Intern Project_<br>
 
 ## Awards & Papers
 
-Merit Student of ICT    (May 2017)<br>
-**《Lithium-decorated oxidized graphyne for hydrogen storage by first principles study》** published in journal **《Journal of Applied Physics》**     (Sep 2014)<br>
-Encouragement Scholarship of HUST    (Mar 2014)<br>
-Outstanding Individual in Scientific Innovation of HUST    (Dec 2013)<br>
-Second Price of National Student Electronic Design Competition    (Sep 2013)<br>
+* Merit Student of ICT    (May 2017)<br>
+* **《Lithium-decorated oxidized graphyne for hydrogen storage by first principles study》** published in journal **《Journal of Applied Physics》**     (Sep 2014)<br>
+* Encouragement Scholarship of HUST    (Mar 2014)<br>
+* Outstanding Individual in Scientific Innovation of HUST    (Dec 2013)<br>
+* Second Price of National Student Electronic Design Competition    (Sep 2013)<br>
 
 
 ## Skill & Certificates
 
-Great knowledge of linux development environment, Familiar with development tools: Git, SVN, GDB, Makefile, etc.<br>
-Skills Stack: Great UE4 framework knowledge of GamepPlay, GAS and AI. Experienced in etcd, redis, mongodb, grpc and so on. Ever viewed the source code of CPython. Great understanding of microservice framework.<br>
-Programming Language: C/C++, Python, Shell.<br>
-College English Test Band 6 Certificate(CET6).<br>
-Fourth-level Certificate for National Computer.<br>
+* Great knowledge of linux development environment, Familiar with development tools: Git, SVN, GDB, Makefile, etc.<br>
+* Skills Stack: Great UE4 framework knowledge of GamepPlay, GAS and AI. Experienced in etcd, redis, mongodb, grpc and so on. Ever viewed the source code of CPython. Great understanding of microservice framework.<br>
+* Programming Language: C/C++, Python, Shell.<br>
+* College English Test Band 6 Certificate(CET6).<br>
+* Fourth-level Certificate for National Computer.<br>
 
 
 ## Self Assesment
