@@ -41,7 +41,7 @@ Wuhan, Hubei, CN
 
 ## Work & Project Experience
 
-### **Tencent Games, Timi J3 Studio** `July 2020 -`
+### **Tencent Games, Timi J3 Studio** `July 2020 - Present`
 
 _FPS Mobile Game Based On Famous IP_<br>
 In order to anthropomorphize the AI obstacle avoidance behavior, independently implement the ORCA algorithm plugin for obstacle avoidance instead of using the engine slolution of simple RVO algorithm. As a result, we avoid the risk of AI moving out of navmesh boundary, and also solve the first-person perspective shaking problem which is originated in UE4 RVO algorithm. On the other hand, we also optimize the multi AI avoidance behavior in corner terrain with this plugin.<br>
